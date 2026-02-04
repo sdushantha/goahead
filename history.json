@@ -1,0 +1,3624 @@
+{
+  "AV26-0594": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:26:38.943Z",
+    "untilDateTime": "2026-01-30T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-01-30",
+        "trainNumber": "711",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-30T10:25:00Z",
+        "destinationArrivalTime": "2026-01-30T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_63241-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:26:38.943Z"
+  },
+  "AV26-0701": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T18:31:14.342Z",
+    "untilDateTime": "2026-01-30T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-01-30",
+        "trainNumber": "713",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-30T12:25:00Z",
+        "destinationArrivalTime": "2026-01-30T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_63245-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T09:00:48.427Z"
+  },
+  "AV26-0589": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:24:30.118Z",
+    "untilDateTime": "2026-01-30T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-01-30",
+        "trainNumber": "717",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-01-30T16:25:00Z",
+        "destinationArrivalTime": "2026-01-30T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:24:30.118Z"
+  },
+  "AV26-0596": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:27:32.6Z",
+    "untilDateTime": "2026-01-30T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-01-30",
+        "trainNumber": "720",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-01-30T18:36:00Z",
+        "destinationArrivalTime": "2026-01-30T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:27:32.6Z"
+  },
+  "AV26-0697": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T15:45:32.045Z",
+    "untilDateTime": "2026-01-31T06:21:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "725 2026-01-30",
+        "trainNumber": "725",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-30T21:25:00Z",
+        "destinationArrivalTime": "2026-01-31T06:21:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:725-LOD_63256-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:725_OSL-STV_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T09:07:19.022Z"
+  },
+  "AV26-0829": {
+    "originLocationId": "NB\u00d8",
+    "destinationLocationId": "STV",
+    "productLineId": 59,
+    "fromDateTime": "2026-01-30T11:49:23.914Z",
+    "untilDateTime": "2026-01-30T14:00:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom N\u00e6rb\u00f8 og Stavanger p\u00e5 grunn av problemer med toget. Vi anbefaler at du tar neste tog.",
+      "en": "Train is cancelled between N\u00e6rb\u00f8 and Stavanger due to problems affecting the train. We recommend that you use the next train."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "3039 2026-01-30",
+        "trainNumber": "3039",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 59,
+        "origin": "NB\u00d8",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-30T13:17:00Z",
+        "destinationArrivalTime": "2026-01-30T14:00:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:3039_63078-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:3039_NB\u00d8-STV_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T11:49:28.611Z"
+  },
+  "AV26-0819": {
+    "originLocationId": "SAS",
+    "destinationLocationId": "STV",
+    "productLineId": 59,
+    "fromDateTime": "2026-01-30T06:47:58.012Z",
+    "untilDateTime": "2026-01-30T13:14:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Skeiane og Stavanger p\u00e5 grunn av problemer med toget. Vi anbefaler at du tar neste tog.",
+      "en": "Train is cancelled between Skeiane and Stavanger due to problems affecting the train. We recommend that you use the next train."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "3137 2026-01-30",
+        "trainNumber": "3137",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 59,
+        "origin": "SAS",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-30T12:56:00Z",
+        "destinationArrivalTime": "2026-01-30T13:14:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:3137_63182-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:3137_SAS-STV_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T06:47:58.012Z"
+  },
+  "AV26-0598": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:30:08.031Z",
+    "untilDateTime": "2026-01-31T11:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "704 2026-01-31",
+        "trainNumber": "704",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-01-31T06:54:00Z",
+        "destinationArrivalTime": "2026-01-31T11:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:704-KRS_63923-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:704_KRS-OSL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:30:08.031Z"
+  },
+  "AV26-0600": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:31:06.389Z",
+    "untilDateTime": "2026-01-31T17:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-01-31",
+        "trainNumber": "710",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-01-31T09:16:00Z",
+        "destinationArrivalTime": "2026-01-31T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:31:06.389Z"
+  },
+  "AV26-0602": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:32:17.712Z",
+    "untilDateTime": "2026-01-31T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-01-31",
+        "trainNumber": "713",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-31T12:25:00Z",
+        "destinationArrivalTime": "2026-01-31T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_64083-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T19:48:52.414Z"
+  },
+  "AV26-0605": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:33:08.13Z",
+    "untilDateTime": "2026-01-31T21:11:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-01-31",
+        "trainNumber": "717",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-01-31T16:25:00Z",
+        "destinationArrivalTime": "2026-01-31T21:11:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63253-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:33:08.13Z"
+  },
+  "AV26-0607": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:35:06.961Z",
+    "untilDateTime": "2026-02-01T11:05:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "705 2026-02-01",
+        "trainNumber": "705",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-01T08:05:00Z",
+        "destinationArrivalTime": "2026-02-01T11:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:705_63219-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:705_KRS-STV_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:35:06.961Z"
+  },
+  "AV26-0609": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:36:06.527Z",
+    "untilDateTime": "2026-02-01T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-01",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-01T07:47:00Z",
+        "destinationArrivalTime": "2026-02-01T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63233-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:36:06.527Z"
+  },
+  "AV26-0611": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:37:02.847Z",
+    "untilDateTime": "2026-02-01T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-02-01",
+        "trainNumber": "713",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-01T12:25:00Z",
+        "destinationArrivalTime": "2026-02-01T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_64082-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-01T18:01:03.81Z"
+  },
+  "AV26-0614": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:38:05.992Z",
+    "untilDateTime": "2026-02-01T21:45:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "714 2026-02-01",
+        "trainNumber": "714",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-01T13:04:00Z",
+        "destinationArrivalTime": "2026-02-01T21:45:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:714-STV_63246-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:714_STV-OSL_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:38:05.992Z"
+  },
+  "AV26-0616": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:39:18.091Z",
+    "untilDateTime": "2026-02-01T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-01",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-01T16:25:00Z",
+        "destinationArrivalTime": "2026-02-01T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:39:18.091Z"
+  },
+  "AV26-0618": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:40:10.302Z",
+    "untilDateTime": "2026-02-02T01:08:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "721 2026-02-01",
+        "trainNumber": "721",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-01T20:25:00Z",
+        "destinationArrivalTime": "2026-02-02T01:08:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:721-LOD_63255-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:721_OSL-KRS_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:40:10.302Z"
+  },
+  "AV26-0620": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:42:07.242Z",
+    "untilDateTime": "2026-02-02T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-02",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T04:02:00Z",
+        "destinationArrivalTime": "2026-02-02T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:42:07.242Z"
+  },
+  "AV26-0622": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:43:11.765Z",
+    "untilDateTime": "2026-02-02T08:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-02",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-02T03:35:00Z",
+        "destinationArrivalTime": "2026-02-02T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-GJE_63210-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_GJE-OSL_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:43:11.765Z"
+  },
+  "AV26-0625": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:44:19.08Z",
+    "untilDateTime": "2026-02-02T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-02",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-02T07:47:00Z",
+        "destinationArrivalTime": "2026-02-02T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:44:19.08Z"
+  },
+  "AV26-0627": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:45:13.307Z",
+    "untilDateTime": "2026-02-02T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-02",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T10:25:00Z",
+        "destinationArrivalTime": "2026-02-02T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_64080-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T16:05:50.775Z"
+  },
+  "AV26-0629": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:46:13.81Z",
+    "untilDateTime": "2026-02-02T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-02",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-02T16:25:00Z",
+        "destinationArrivalTime": "2026-02-02T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:46:13.81Z"
+  },
+  "AV26-0631": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:47:03.356Z",
+    "untilDateTime": "2026-02-02T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-02",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-02T18:36:00Z",
+        "destinationArrivalTime": "2026-02-02T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-22T12:47:03.356Z"
+  },
+  "AV26-0704": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:10:32.056Z",
+    "untilDateTime": "2026-02-03T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-03",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-03T04:02:00Z",
+        "destinationArrivalTime": "2026-02-03T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:10:32.056Z"
+  },
+  "AV26-0706": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:15:31.272Z",
+    "untilDateTime": "2026-02-03T08:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-03",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-03T03:35:00Z",
+        "destinationArrivalTime": "2026-02-03T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-GJE_63210-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_GJE-OSL_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:15:31.272Z"
+  },
+  "AV26-0709": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:19:06.219Z",
+    "untilDateTime": "2026-02-03T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Stavanger-Oslo S.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Stavanger-Oslo S. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-03",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-03T07:47:00Z",
+        "destinationArrivalTime": "2026-02-03T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T13:55:52.958Z"
+  },
+  "AV26-0711": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:21:34.145Z",
+    "untilDateTime": "2026-02-03T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-03",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-03T10:25:00Z",
+        "destinationArrivalTime": "2026-02-03T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_64080-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:21:34.145Z"
+  },
+  "AV26-0713": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:23:00.642Z",
+    "untilDateTime": "2026-02-03T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-03",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-03T16:25:00Z",
+        "destinationArrivalTime": "2026-02-03T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:23:00.642Z"
+  },
+  "AV26-0715": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:24:25.276Z",
+    "untilDateTime": "2026-02-03T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-03",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-03T18:36:00Z",
+        "destinationArrivalTime": "2026-02-03T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:24:25.276Z"
+  },
+  "AV26-0717": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:33:39.77Z",
+    "untilDateTime": "2026-02-04T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-04",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-04T04:02:00Z",
+        "destinationArrivalTime": "2026-02-04T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:33:39.77Z"
+  },
+  "AV26-0723": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-03T07:49:40.991Z",
+    "untilDateTime": "2026-02-04T09:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-04",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-04T03:35:00Z",
+        "destinationArrivalTime": "2026-02-04T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-GJE_63210-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_GJE-OSL_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T07:49:40.991Z"
+  },
+  "AV26-0719": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:36:37.479Z",
+    "untilDateTime": "2026-02-04T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-04",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-04T07:47:00Z",
+        "destinationArrivalTime": "2026-02-04T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:36:37.479Z"
+  },
+  "AV26-0726": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:42:47.436Z",
+    "untilDateTime": "2026-02-04T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-04",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-04T10:25:00Z",
+        "destinationArrivalTime": "2026-02-04T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_64080-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:42:47.436Z"
+  },
+  "AV26-0721": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:38:11.972Z",
+    "untilDateTime": "2026-02-04T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-04",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-04T16:25:00Z",
+        "destinationArrivalTime": "2026-02-04T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:38:11.972Z"
+  },
+  "AV26-0728": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:44:14.715Z",
+    "untilDateTime": "2026-02-04T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-04",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-04T18:36:00Z",
+        "destinationArrivalTime": "2026-02-04T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:44:14.715Z"
+  },
+  "AV26-0730": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:45:23.835Z",
+    "untilDateTime": "2026-02-05T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-05",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-05T04:02:00Z",
+        "destinationArrivalTime": "2026-02-05T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:45:23.835Z"
+  },
+  "AV26-0736": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:54:07.948Z",
+    "untilDateTime": "2026-02-05T08:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-05",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-05T03:35:00Z",
+        "destinationArrivalTime": "2026-02-05T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-GJE_63210-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_GJE-OSL_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:54:07.948Z"
+  },
+  "AV26-0732": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:48:48.483Z",
+    "untilDateTime": "2026-02-05T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-05",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-05T07:47:00Z",
+        "destinationArrivalTime": "2026-02-05T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:48:48.483Z"
+  },
+  "AV26-0739": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:35:51.2Z",
+    "untilDateTime": "2026-02-05T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-05",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-05T10:25:00Z",
+        "destinationArrivalTime": "2026-02-05T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_64080-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:35:51.2Z"
+  },
+  "AV26-0734": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T19:50:15.98Z",
+    "untilDateTime": "2026-02-05T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-05",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-05T16:25:00Z",
+        "destinationArrivalTime": "2026-02-05T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T19:50:15.98Z"
+  },
+  "AV26-0741": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:37:54.431Z",
+    "untilDateTime": "2026-02-05T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-05",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-05T18:36:00Z",
+        "destinationArrivalTime": "2026-02-05T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:37:54.431Z"
+  },
+  "AV26-0743": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:41:27.898Z",
+    "untilDateTime": "2026-02-06T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-06",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-06T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-06T04:02:00Z",
+        "destinationArrivalTime": "2026-02-06T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-06"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:41:27.898Z"
+  },
+  "AV26-0749": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:47:01.458Z",
+    "untilDateTime": "2026-02-06T08:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-06",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-06T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-06T03:35:00Z",
+        "destinationArrivalTime": "2026-02-06T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-KRS_63213-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_KRS-OSL_26-02-06"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:47:01.458Z"
+  },
+  "AV26-0745": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:42:30.372Z",
+    "untilDateTime": "2026-02-06T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-06",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-06T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-06T07:47:00Z",
+        "destinationArrivalTime": "2026-02-06T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-06"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:42:30.372Z"
+  },
+  "AV26-0752": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:48:19.898Z",
+    "untilDateTime": "2026-02-06T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-06",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-06T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-06T10:25:00Z",
+        "destinationArrivalTime": "2026-02-06T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_63241-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-06"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:48:19.898Z"
+  },
+  "AV26-0747": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:45:15.063Z",
+    "untilDateTime": "2026-02-06T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-06",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-06T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-06T16:25:00Z",
+        "destinationArrivalTime": "2026-02-06T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-06"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:45:15.063Z"
+  },
+  "AV26-0754": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T22:49:30.592Z",
+    "untilDateTime": "2026-02-06T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-06",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-06T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-06T18:36:00Z",
+        "destinationArrivalTime": "2026-02-06T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-06"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-29T22:49:30.592Z"
+  },
+  "AV26-0756": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:46:39.557Z",
+    "untilDateTime": "2026-02-07T11:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "704 2026-02-07",
+        "trainNumber": "704",
+        "operatingDate": "2026-02-07T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-07T06:54:00Z",
+        "destinationArrivalTime": "2026-02-07T11:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:704-KRS_63923-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:704_KRS-OSL_26-02-07"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:46:39.557Z"
+  },
+  "AV26-0758": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:47:49.185Z",
+    "untilDateTime": "2026-02-07T17:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-02-07",
+        "trainNumber": "710",
+        "operatingDate": "2026-02-07T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-07T09:16:00Z",
+        "destinationArrivalTime": "2026-02-07T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-02-07"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:47:49.185Z"
+  },
+  "AV26-0760": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:48:55.537Z",
+    "untilDateTime": "2026-02-07T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-02-07",
+        "trainNumber": "713",
+        "operatingDate": "2026-02-07T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-07T12:25:00Z",
+        "destinationArrivalTime": "2026-02-07T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_64083-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-02-07"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:48:55.537Z"
+  },
+  "AV26-0763": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:50:20.081Z",
+    "untilDateTime": "2026-02-07T21:11:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-07",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-07T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-07T16:25:00Z",
+        "destinationArrivalTime": "2026-02-07T21:11:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63253-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-07"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:50:20.081Z"
+  },
+  "AV26-0765": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:57:12.966Z",
+    "untilDateTime": "2026-02-08T11:05:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "705 2026-02-08",
+        "trainNumber": "705",
+        "operatingDate": "2026-02-08T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-08T08:05:00Z",
+        "destinationArrivalTime": "2026-02-08T11:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:705_63219-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:705_KRS-STV_26-02-08"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:57:12.966Z"
+  },
+  "AV26-0767": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:58:16.547Z",
+    "untilDateTime": "2026-02-08T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-08",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-08T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-08T07:47:00Z",
+        "destinationArrivalTime": "2026-02-08T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63233-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-08"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:58:16.547Z"
+  },
+  "AV26-0769": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T01:59:34.227Z",
+    "untilDateTime": "2026-02-08T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-02-08",
+        "trainNumber": "713",
+        "operatingDate": "2026-02-08T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-08T12:25:00Z",
+        "destinationArrivalTime": "2026-02-08T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_64082-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-02-08"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T01:59:34.227Z"
+  },
+  "AV26-0772": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:00:58.055Z",
+    "untilDateTime": "2026-02-08T21:45:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "714 2026-02-08",
+        "trainNumber": "714",
+        "operatingDate": "2026-02-08T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-08T13:04:00Z",
+        "destinationArrivalTime": "2026-02-08T21:45:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:714-STV_63246-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:714_STV-OSL_26-02-08"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:00:58.055Z"
+  },
+  "AV26-0774": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:01:52.989Z",
+    "untilDateTime": "2026-02-08T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-08",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-08T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-08T16:25:00Z",
+        "destinationArrivalTime": "2026-02-08T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-08"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:01:52.989Z"
+  },
+  "AV26-0776": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:02:54.821Z",
+    "untilDateTime": "2026-02-09T01:08:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "721 2026-02-08",
+        "trainNumber": "721",
+        "operatingDate": "2026-02-08T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-08T20:25:00Z",
+        "destinationArrivalTime": "2026-02-09T01:08:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:721-LOD_63255-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:721_OSL-KRS_26-02-08"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:02:54.821Z"
+  },
+  "AV26-0778": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:05:13.928Z",
+    "untilDateTime": "2026-02-09T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-09",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-09T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-09T04:02:00Z",
+        "destinationArrivalTime": "2026-02-09T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-09"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:05:13.928Z"
+  },
+  "AV26-0780": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:06:32.766Z",
+    "untilDateTime": "2026-02-09T08:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-09",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-09T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-09T03:35:00Z",
+        "destinationArrivalTime": "2026-02-09T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-GJE_63210-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_GJE-OSL_26-02-09"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:06:32.766Z"
+  },
+  "AV26-0783": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:07:32.441Z",
+    "untilDateTime": "2026-02-09T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-09",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-09T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-09T07:47:00Z",
+        "destinationArrivalTime": "2026-02-09T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-09"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:07:32.441Z"
+  },
+  "AV26-0785": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:08:29.948Z",
+    "untilDateTime": "2026-02-09T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-09",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-09T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-09T10:25:00Z",
+        "destinationArrivalTime": "2026-02-09T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_64080-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-09"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:08:29.948Z"
+  },
+  "AV26-0787": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:09:24.967Z",
+    "untilDateTime": "2026-02-09T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-09",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-09T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-09T16:25:00Z",
+        "destinationArrivalTime": "2026-02-09T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-09"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:09:24.967Z"
+  },
+  "AV26-0789": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T02:10:27.708Z",
+    "untilDateTime": "2026-02-09T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-09",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-09T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-09T18:36:00Z",
+        "destinationArrivalTime": "2026-02-09T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-09"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T02:10:27.708Z"
+  },
+  "AV26-0489": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KBG",
+    "productLineId": 50,
+    "fromDateTime": "2026-03-21T03:15:00Z",
+    "untilDateTime": "2026-03-22T03:00:00Z",
+    "isPlanned": true,
+    "hasReplacements": true,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "S\u00f8rtoget: Bane NOR utf\u00f8rer vedlikeholdsarbeid.",
+      "en": "S\u00f8rtoget: Bane NOR is carrying out maintenance work."
+    },
+    "messageDescription": {
+      "no": "Bane NOR utf\u00f8rer vedlikeholdsarbeid. Strekningen vil derfor v\u00e6re stengt i denne perioden og vi setter opp buss for tog mellom Oslo og Kongsberg for S\u00f8rtoget . Se reiseplanleggeren for oppdatert informasjon.",
+      "en": "Bane NOR is carrying out maintenance work. The line will therefore be closed during this period and we will set up buses for trains between Oslo and Kongsberg for S\u00f8rtoget. See the journey planner for updated information."
+    },
+    "affectedTrainServices": [],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-20T12:17:02.427Z"
+  },
+  "AV26-0490": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KBG",
+    "productLineId": 50,
+    "fromDateTime": "2026-03-28T04:30:00Z",
+    "untilDateTime": "2026-04-06T00:00:00Z",
+    "isPlanned": true,
+    "hasReplacements": true,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "S\u00f8rtoget: Bane NOR utf\u00f8rer vedlikeholdsarbeid.",
+      "en": "S\u00f8rtoget: Bane NOR is carrying out maintenance work."
+    },
+    "messageDescription": {
+      "no": "Bane NOR utf\u00f8rer vedlikeholdsarbeid. Strekningen vil derfor v\u00e6re stengt i denne perioden og vi setter opp buss for tog mellom Oslo og Kongsberg for S\u00f8rtoget. Se reiseplanleggeren for oppdatert informasjon.",
+      "en": "Bane NOR is carrying out maintenance work. The line will therefore be closed during this period and we will set up buses for trains between Oslo and Kongsberg for S\u00f8rtoget. See the journey planner for updated information. "
+    },
+    "affectedTrainServices": [],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-20T12:25:26.472Z"
+  },
+  "AV26-0491": {
+    "originLocationId": "STV",
+    "destinationLocationId": "EGS",
+    "productLineId": 59,
+    "fromDateTime": "2026-04-11T21:20:00Z",
+    "untilDateTime": "2026-04-12T06:00:00Z",
+    "isPlanned": true,
+    "hasReplacements": true,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "J\u00e6rbanen: Bane NOR utf\u00f8rer vedlikeholdsarbeid. ",
+      "en": "J\u00e6rbanen: Bane NOR carries out maintenance work."
+    },
+    "messageDescription": {
+      "no": "Bane NOR utf\u00f8rer vedlikeholdsarbeid. Strekningen vil derfor v\u00e6re stengt i denne perioden og vi setter opp buss for tog mellom Stavanger og Egersund for J\u00e6rbanen. Se reiseplanleggeren for oppdatert informasjon.",
+      "en": "Bane NOR is carrying out maintenance work. The line will therefore be closed during this period and we will set up buses for trains between Stavanger and Egersund for J\u00e6rbanen. See the journey planner for updated information."
+    },
+    "affectedTrainServices": [],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-20T12:43:11.404Z"
+  },
+  "AV26-0488": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "DRM",
+    "productLineId": 50,
+    "fromDateTime": "2026-03-02T21:30:00Z",
+    "untilDateTime": "2026-03-05T03:15:00Z",
+    "isPlanned": true,
+    "hasReplacements": true,
+    "withDailyTimeSlot": true,
+    "weekDays": {
+      "no": [
+        "Mandag",
+        "Tirsdag",
+        "Onsdag"
+      ],
+      "en": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    "messageSummary": {
+      "no": "S\u00f8rtoget: Bane NOR utf\u00f8rer vedlikeholdsarbeid.",
+      "en": "S\u00f8rtoget: Bane NOR is carrying out maintenance work."
+    },
+    "messageDescription": {
+      "no": "Bane NOR utf\u00f8rer vedlikeholdsarbeid. Strekningen vil derfor v\u00e6re stengt i denne perioden og vi setter opp buss for tog 716 og 705 mellom Oslo og Kongsberg for S\u00f8rtoget . Se reiseplanleggeren for oppdatert informasjon.",
+      "en": "Bane NOR is carrying out maintenance work. The line will therefore be closed during this period and we will set up buses for trains 716 and 705 between Oslo and Kongsberg for S\u00f8rtoget. See the journey planner for updated information."
+    },
+    "affectedTrainServices": [],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-20T12:00:05.47Z"
+  },
+  "AV25-3374": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "GJE",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-05T02:30:00Z",
+    "untilDateTime": "2026-03-26T08:30:00Z",
+    "isPlanned": true,
+    "hasReplacements": true,
+    "withDailyTimeSlot": true,
+    "weekDays": {
+      "no": [
+        "Mandag",
+        "Tirsdag",
+        "Onsdag",
+        "Torsdag"
+      ],
+      "en": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    "messageSummary": {
+      "no": "S\u00f8rtoget: Bane NOR utf\u00f8rer vedlikeholdsarbeid",
+      "en": "The southern train: Bane NOR carries out maintenance work"
+    },
+    "messageDescription": {
+      "no": "Bane NOR utf\u00f8rer vedlikeholdsarbeid. Strekningen vil derfor v\u00e6re stengt i denne perioden og vi setter opp buss for tog mellom Kristiansand og Gjerstad for S\u00f8rtoget. NB: For reisende til/fra Nelaug og Veg\u00e5rshei m\u00e5 taxi bestilles senest 48 timer f\u00f8r, p\u00e5 enkelte avganger. Send oss en e-post med informasjon om hvilken avgang du skal reise med til taxi@gan.no, eller kontakt oss p\u00e5 tlf. 61 25 80 00. Se reiseplanleggeren for oppdatert informasjon.",
+      "en": "Bane NOR is carrying out maintenance work. The line will therefore be closed during this period and we will set up bus replacement between Kristiansand and Gjerstad for S\u00f8rtoget. NB: For travellers to/from Nelaug and Veg\u00e5rshei, taxis must be booked at least 48 hours in advance for some departures. Please send us an e-mail with information about which departure you will be travelling on to taxi@gan.no, or contact us on tel. 61 25 80 00. See the journey planner for updated information."
+    },
+    "affectedTrainServices": [],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2025-11-12T09:51:54.598Z"
+  },
+  "AV26-0587": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-22T12:22:52.316Z",
+    "untilDateTime": "2026-01-30T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Stavanger-Oslo S.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Stavanger-Oslo S. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-01-30",
+        "trainNumber": "708",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-01-30T07:47:00Z",
+        "destinationArrivalTime": "2026-01-30T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T13:44:44.971Z"
+  },
+  "AV26-0831": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T13:28:36.005Z",
+    "untilDateTime": "2026-01-31T13:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Stavanger-Oslo S.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Stavanger-Oslo S. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "706 2026-01-31",
+        "trainNumber": "706",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-01-31T05:32:00Z",
+        "destinationArrivalTime": "2026-01-31T13:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:706-KVB_63228-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:706_STV-OSL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T15:49:26.128Z"
+  },
+  "AV26-0833": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-30T13:28:59.243Z",
+    "untilDateTime": "2026-01-31T22:14:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "715 2026-01-31",
+        "trainNumber": "715",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-01-31T14:23:00Z",
+        "destinationArrivalTime": "2026-01-31T22:14:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:715-LOD_64088-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:715_OSL-STV_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T21:42:51.302Z"
+  },
+  "AV26-0695": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-29T15:44:51.793Z",
+    "untilDateTime": "2026-01-30T17:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-01-30",
+        "trainNumber": "710",
+        "operatingDate": "2026-01-30T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-01-30T09:16:00Z",
+        "destinationArrivalTime": "2026-01-30T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-01-30"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-30T17:13:58.718Z"
+  },
+  "AV26-0835": {
+    "originLocationId": "ADL",
+    "destinationLocationId": "NEL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T07:30:55.162Z",
+    "untilDateTime": "2026-01-31T07:48:43Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Arendal og Nelaug p\u00e5 grunn av problemer med toget. Kontakt Go-Aheads kundeservice for \u00e5 bestille alternativ transport. Mer info t.gan.n",
+      "en": "Train is cancelled between Arendal and Nelaug due to problems affecting the train. Contact Go-Ahead's Customer Service to order alternative transport. More info"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2064 2026-01-31",
+        "trainNumber": "2064",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "ADL",
+        "destination": "NEL",
+        "originDepartureTime": "2026-01-31T07:10:00Z",
+        "destinationArrivalTime": "2026-01-31T07:47:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2064_63017-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2064_ADL-NEL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T07:31:18.149Z"
+  },
+  "AV26-0837": {
+    "originLocationId": "NEL",
+    "destinationLocationId": "ADL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T07:31:22.628Z",
+    "untilDateTime": "2026-01-31T08:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Nelaug og Arendal p\u00e5 grunn av problemer med toget. Kontakt Go-Aheads kundeservice for \u00e5 bestille alternativ transport. Mer info t.gan.n",
+      "en": "Train is cancelled between Nelaug and Arendal due to problems affecting the train. Contact Go-Ahead's Customer Service to order alternative transport. More info"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2065 2026-01-31",
+        "trainNumber": "2065",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "NEL",
+        "destination": "ADL",
+        "originDepartureTime": "2026-01-31T08:00:00Z",
+        "destinationArrivalTime": "2026-01-31T08:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2065_63018-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2065_NEL-ADL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T07:31:26.615Z"
+  },
+  "AV26-0850": {
+    "originLocationId": "NEL",
+    "destinationLocationId": "ADL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:12:42.877Z",
+    "untilDateTime": "2026-01-31T14:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Nelaug og Arendal p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Nelaug-Arendal.",
+      "en": "Train is cancelled between Nelaug and Arendal due to problems affecting the train. Go-Ahead is running rail replacement buses between Nelaug-Arendal. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2071 2026-01-31",
+        "trainNumber": "2071",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "NEL",
+        "destination": "ADL",
+        "originDepartureTime": "2026-01-31T14:00:00Z",
+        "destinationArrivalTime": "2026-01-31T14:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2071_63024-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2071_NEL-ADL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T12:13:26.73Z"
+  },
+  "AV26-0852": {
+    "originLocationId": "ADL",
+    "destinationLocationId": "NEL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:12:51.184Z",
+    "untilDateTime": "2026-01-31T15:47:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Arendal og Nelaug p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Arendal-Nelaug.",
+      "en": "Train is cancelled between Arendal and Nelaug due to problems affecting the train. Go-Ahead is running rail replacement buses between Arendal-Nelaug. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2072 2026-01-31",
+        "trainNumber": "2072",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "ADL",
+        "destination": "NEL",
+        "originDepartureTime": "2026-01-31T15:10:00Z",
+        "destinationArrivalTime": "2026-01-31T15:47:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2072_63025-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2072_ADL-NEL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T10:57:59.438Z"
+  },
+  "AV26-0854": {
+    "originLocationId": "NEL",
+    "destinationLocationId": "ADL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:13:04.371Z",
+    "untilDateTime": "2026-01-31T16:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Nelaug og Arendal p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Nelaug-Arendal.",
+      "en": "Train is cancelled between Nelaug and Arendal due to problems affecting the train. Go-Ahead is running rail replacement buses between Nelaug-Arendal. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2073 2026-01-31",
+        "trainNumber": "2073",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "NEL",
+        "destination": "ADL",
+        "originDepartureTime": "2026-01-31T16:00:00Z",
+        "destinationArrivalTime": "2026-01-31T16:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2073_63026-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2073_NEL-ADL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T12:14:08.868Z"
+  },
+  "AV26-0858": {
+    "originLocationId": "NEL",
+    "destinationLocationId": "ADL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:13:21.538Z",
+    "untilDateTime": "2026-01-31T18:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Nelaug og Arendal p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Nelaug-Arendal.",
+      "en": "Train is cancelled between Nelaug and Arendal due to problems affecting the train. Go-Ahead is running rail replacement buses between Nelaug-Arendal. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2075 2026-01-31",
+        "trainNumber": "2075",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "NEL",
+        "destination": "ADL",
+        "originDepartureTime": "2026-01-31T18:00:00Z",
+        "destinationArrivalTime": "2026-01-31T18:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2075_63028-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2075_NEL-ADL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T10:58:39.539Z"
+  },
+  "AV26-0860": {
+    "originLocationId": "NEL",
+    "destinationLocationId": "ADL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:13:31.137Z",
+    "untilDateTime": "2026-01-31T20:52:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Nelaug og Arendal p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Nelaug-Arendal.",
+      "en": "Train is cancelled between Nelaug and Arendal due to problems affecting the train. Go-Ahead is running rail replacement buses between Nelaug-Arendal. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2077 2026-01-31",
+        "trainNumber": "2077",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "NEL",
+        "destination": "ADL",
+        "originDepartureTime": "2026-01-31T20:15:00Z",
+        "destinationArrivalTime": "2026-01-31T20:52:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2077_63030-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2077_NEL-ADL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T12:16:08.258Z"
+  },
+  "AV26-0862": {
+    "originLocationId": "ADL",
+    "destinationLocationId": "NEL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:13:40.078Z",
+    "untilDateTime": "2026-01-31T20:05:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Arendal og Nelaug p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Arendal-Nelaug.",
+      "en": "Train is cancelled between Arendal and Nelaug due to problems affecting the train. Go-Ahead is running rail replacement buses between Arendal-Nelaug. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2078 2026-01-31",
+        "trainNumber": "2078",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "ADL",
+        "destination": "NEL",
+        "originDepartureTime": "2026-01-31T19:28:00Z",
+        "destinationArrivalTime": "2026-01-31T20:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2078_63031-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2078_ADL-NEL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T19:18:30.978Z"
+  },
+  "AV26-0864": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-31T14:37:48.484Z",
+    "untilDateTime": "2026-02-01T17:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-02-01",
+        "trainNumber": "710",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-01T09:16:00Z",
+        "destinationArrivalTime": "2026-02-01T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-01T16:44:17.626Z"
+  },
+  "AV26-0868": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-31T12:18:31.191Z",
+    "untilDateTime": "2026-02-01T19:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "712 2026-02-01",
+        "trainNumber": "712",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-01T11:34:00Z",
+        "destinationArrivalTime": "2026-02-01T19:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:712-STV_63243-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:712_STV-OSL_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-01T16:44:28.047Z"
+  },
+  "AV26-0866": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-01-31T12:18:06.655Z",
+    "untilDateTime": "2026-02-02T06:21:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "725 2026-02-01",
+        "trainNumber": "725",
+        "operatingDate": "2026-02-01T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-01T21:25:00Z",
+        "destinationArrivalTime": "2026-02-02T06:21:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:725-LOD_63256-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:725_OSL-STV_26-02-01"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-01T23:36:34.675Z"
+  },
+  "AV26-0856": {
+    "originLocationId": "ADL",
+    "destinationLocationId": "NEL",
+    "productLineId": 53,
+    "fromDateTime": "2026-01-31T10:13:11.542Z",
+    "untilDateTime": "2026-01-31T17:47:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Arendal og Nelaug p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Arendal-Nelaug.",
+      "en": "Train is cancelled between Arendal and Nelaug due to problems affecting the train. Go-Ahead is running rail replacement buses between Arendal-Nelaug. More info "
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "2074 2026-01-31",
+        "trainNumber": "2074",
+        "operatingDate": "2026-01-31T00:00:00Z",
+        "productLineId": 53,
+        "origin": "ADL",
+        "destination": "NEL",
+        "originDepartureTime": "2026-01-31T17:10:00Z",
+        "destinationArrivalTime": "2026-01-31T17:47:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:2074_63027-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:2074_ADL-NEL_26-01-31"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-01-31T12:14:40.986Z"
+  },
+  "AV26-0870": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "GJE",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-01T12:52:26.275Z",
+    "untilDateTime": "2026-02-02T07:19:01Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Gjerstad p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Gjerstad.",
+      "en": "Train is cancelled between Oslo S and Gjerstad due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Gjerstad. More inf"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "705 2026-02-02",
+        "trainNumber": "705",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T03:19:00Z",
+        "destinationArrivalTime": "2026-02-02T11:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:705-LOD_63220-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:705_OSL-GJE_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T05:22:30.163Z"
+  },
+  "AV26-0874": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-01T12:53:33.894Z",
+    "untilDateTime": "2026-02-02T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-02-02",
+        "trainNumber": "713",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T12:25:00Z",
+        "destinationArrivalTime": "2026-02-02T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_63245-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-01T15:08:17.735Z"
+  },
+  "AV26-0872": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-01T12:52:54.383Z",
+    "untilDateTime": "2026-02-02T11:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Gjerstad-Oslo S.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Gjerstad-Oslo S. More inf"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "704 2026-02-02",
+        "trainNumber": "704",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "GJE",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-02T08:25:00Z",
+        "destinationArrivalTime": "2026-02-02T11:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:90704-GJE_62985-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:90704_GJE-OSL_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-01T16:05:06.65Z"
+  },
+  "AV26-0878": {
+    "originLocationId": "NB\u00d8",
+    "destinationLocationId": "STV",
+    "productLineId": 59,
+    "fromDateTime": "2026-02-02T00:55:13.44Z",
+    "untilDateTime": "2026-02-02T07:00:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget har redusert kapasitet mellom N\u00e6rb\u00f8 og Stavanger.",
+      "en": "The train from EGS at 06:47 to STV at 08:00 has reduced capacity between N\u00e6rb\u00f8 and Stavanger."
+    },
+    "messageDescription": {
+      "no": "Vi kj\u00f8rer med f\u00e6rre vogner enn planlagt..",
+      "en": "Train service will run by fewer coaches than usual.."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "3011 2026-02-02",
+        "trainNumber": "3011",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 59,
+        "origin": "EGS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T05:47:00Z",
+        "destinationArrivalTime": "2026-02-02T07:00:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:3011_63043-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:3011_EGS-STV_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T00:55:13.44Z"
+  },
+  "AV26-0880": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "DRM",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T08:12:05.094Z",
+    "untilDateTime": "2026-02-02T08:30:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Vi jobber fortsatt med \u00e5 klargj\u00f8re toget.",
+      "en": "We are still preparing the train and will arrive the start station soon."
+    },
+    "messageDescription": {
+      "no": "Vi jobber med \u00e5 klargj\u00f8re toget.",
+      "en": "We are preparing the train."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "709 2026-02-02",
+        "trainNumber": "709",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T08:25:00Z",
+        "destinationArrivalTime": "2026-02-02T16:49:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:709-LOD_63237-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:709_OSL-STV_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T08:12:05.094Z"
+  },
+  "AV26-0882": {
+    "originLocationId": "STV",
+    "destinationLocationId": "BRY",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T08:50:06.838Z",
+    "untilDateTime": "2026-02-02T09:45:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Vi jobber fortsatt med \u00e5 klargj\u00f8re toget.",
+      "en": "We are still preparing the train and will arrive the start station soon."
+    },
+    "messageDescription": {
+      "no": "Vi jobber med \u00e5 klargj\u00f8re toget.",
+      "en": "We are preparing the train."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-02-02",
+        "trainNumber": "710",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-02T09:16:00Z",
+        "destinationArrivalTime": "2026-02-02T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T08:50:06.838Z"
+  },
+  "AV26-0883": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T09:05:31.363Z",
+    "untilDateTime": "2026-02-02T17:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Stavanger-Oslo S.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Stavanger-Oslo S. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-02-02",
+        "trainNumber": "710",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-02T09:16:00Z",
+        "destinationArrivalTime": "2026-02-02T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T13:14:06.366Z"
+  },
+  "AV26-0885": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T09:38:45.735Z",
+    "untilDateTime": "2026-02-03T06:21:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "725 2026-02-02",
+        "trainNumber": "725",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-02T21:25:00Z",
+        "destinationArrivalTime": "2026-02-03T06:21:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:725-LOD_63256-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:725_OSL-STV_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T16:03:13.002Z"
+  },
+  "AV26-0891": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T13:38:20.873Z",
+    "untilDateTime": "2026-02-02T19:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Innstillingen er opphevet. Vi kj\u00f8rer tog.",
+      "en": "Cancellation is reverted. We are running train."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "712 2026-02-02",
+        "trainNumber": "712",
+        "operatingDate": "2026-02-02T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-02T11:34:00Z",
+        "destinationArrivalTime": "2026-02-02T19:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:712-STV_63243-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:712_STV-OSL_26-02-02"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T13:47:52.88Z"
+  },
+  "AV26-0893": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T13:51:58.918Z",
+    "untilDateTime": "2026-02-03T07:42:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Stavanger-Kristiansand. Mer info t.gan.n",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. Go-Ahead is running rail replacement buses between Stavanger-Kristian"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "704 2026-02-03",
+        "trainNumber": "704",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-03T03:20:00Z",
+        "destinationArrivalTime": "2026-02-03T11:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:704-STV_63214-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:704_STV-KRS_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T19:37:08.628Z"
+  },
+  "AV26-0895": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T13:54:28.989Z",
+    "untilDateTime": "2026-02-03T11:05:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Kristiansand-Stavanger. Mer info t.gan.n",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Kristiansand-Stava"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "705 2026-02-03",
+        "trainNumber": "705",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-03T08:05:00Z",
+        "destinationArrivalTime": "2026-02-03T11:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:90705_62986-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:90705_KRS-STV_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-02T16:52:19.253Z"
+  },
+  "AV26-0897": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-02T13:58:20.118Z",
+    "untilDateTime": "2026-02-03T19:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Stavanger-Oslo S.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Stavanger-Oslo S. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "712 2026-02-03",
+        "trainNumber": "712",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-03T11:34:00Z",
+        "destinationArrivalTime": "2026-02-03T19:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:712-STV_63243-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:712_STV-OSL_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T14:48:56.953Z"
+  },
+  "AV26-0899": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-03T08:42:45.647Z",
+    "untilDateTime": "2026-02-03T17:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "710 2026-02-03",
+        "trainNumber": "710",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-03T09:16:00Z",
+        "destinationArrivalTime": "2026-02-03T17:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:710-KVB_63240-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:710_STV-OSL_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T13:35:17.452Z"
+  },
+  "AV26-0901": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-03T12:07:59.129Z",
+    "untilDateTime": "2026-02-04T06:21:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "725 2026-02-03",
+        "trainNumber": "725",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-03T21:25:00Z",
+        "destinationArrivalTime": "2026-02-04T06:21:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:725-LOD_63256-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:725_OSL-STV_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T13:19:25.141Z"
+  },
+  "AV26-0903": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "GJE",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-03T12:10:23.167Z",
+    "untilDateTime": "2026-02-04T07:19:01Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Gjerstad p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Gjerstad.",
+      "en": "Train is cancelled between Oslo S and Gjerstad due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Gjerstad. More inf"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "705 2026-02-04",
+        "trainNumber": "705",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-04T03:19:00Z",
+        "destinationArrivalTime": "2026-02-04T11:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:705-LOD_63220-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:705_OSL-GJE_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T17:35:36.084Z"
+  },
+  "AV26-0907": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-03T12:12:39.333Z",
+    "untilDateTime": "2026-02-04T20:15:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Oslo S-Stavanger.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. Go-Ahead is running rail replacement buses between Oslo S-Stavanger. More i"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "713 2026-02-04",
+        "trainNumber": "713",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-04T12:25:00Z",
+        "destinationArrivalTime": "2026-02-04T20:15:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:713-LOD_63245-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:713_OSL-STV_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T16:19:19.423Z"
+  },
+  "AV26-0905": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-03T12:11:10.896Z",
+    "untilDateTime": "2026-02-04T12:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Go-Ahead kj\u00f8rer buss for tog mellom Gjerstad-Oslo S.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. Go-Ahead is running rail replacement buses between Gjerstad-Oslo S. More inf"
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "704 2026-02-04",
+        "trainNumber": "704",
+        "operatingDate": "2026-02-04T00:00:00Z",
+        "productLineId": 50,
+        "origin": "GJE",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-04T08:25:00Z",
+        "destinationArrivalTime": "2026-02-04T11:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:90704-GJE_62985-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:90704_GJE-OSL_26-02-04"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T13:50:22.833Z"
+  },
+  "AV26-0911": {
+    "originLocationId": "STV",
+    "destinationLocationId": "EGS",
+    "productLineId": 59,
+    "fromDateTime": "2026-02-03T13:50:12.806Z",
+    "untilDateTime": "2026-02-03T15:30:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget har redusert kapasitet mellom Stavanger og Egersund.",
+      "en": "The train from STV at 15:23 to EGS at 16:34 has reduced capacity between Stavanger and Egersund."
+    },
+    "messageDescription": {
+      "no": "Vi kj\u00f8rer med f\u00e6rre vogner enn planlagt..",
+      "en": "Train service will run by fewer coaches than usual.."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "3046 2026-02-03",
+        "trainNumber": "3046",
+        "operatingDate": "2026-02-03T00:00:00Z",
+        "productLineId": 59,
+        "origin": "STV",
+        "destination": "EGS",
+        "originDepartureTime": "2026-02-03T14:23:00Z",
+        "destinationArrivalTime": "2026-02-03T15:34:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:3046_63090-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:3046_STV-EGS_26-02-03"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-03T13:50:12.806Z"
+  },
+  "AV26-0912": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T08:20:44.859Z",
+    "untilDateTime": "2026-02-05T07:42:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "704 2026-02-05",
+        "trainNumber": "704",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-05T03:20:00Z",
+        "destinationArrivalTime": "2026-02-05T11:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:704-STV_63214-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:704_STV-KRS_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T08:20:44.859Z"
+  },
+  "AV26-0914": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T08:21:02.19Z",
+    "untilDateTime": "2026-02-05T11:05:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "705 2026-02-05",
+        "trainNumber": "705",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-05T08:05:00Z",
+        "destinationArrivalTime": "2026-02-05T11:05:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:90705_62986-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:90705_KRS-STV_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T08:21:02.19Z"
+  },
+  "AV26-0916": {
+    "originLocationId": "KRS",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T09:50:15.207Z",
+    "untilDateTime": "2026-02-05T07:20:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Kristiansand og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Kristiansand and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "701 2026-02-05",
+        "trainNumber": "701",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-05T04:02:00Z",
+        "destinationArrivalTime": "2026-02-05T07:20:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:701_63208-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:701_KRS-STV_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T09:50:15.207Z"
+  },
+  "AV26-0922": {
+    "originLocationId": "GJE",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T09:52:37.517Z",
+    "untilDateTime": "2026-02-05T08:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Gjerstad og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Gjerstad and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "702 2026-02-05",
+        "trainNumber": "702",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "KRS",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-05T03:35:00Z",
+        "destinationArrivalTime": "2026-02-05T08:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:702-GJE_63210-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:702_GJE-OSL_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T09:52:37.517Z"
+  },
+  "AV26-0918": {
+    "originLocationId": "STV",
+    "destinationLocationId": "OSL",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T09:51:09.016Z",
+    "untilDateTime": "2026-02-05T15:25:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Oslo S p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Oslo S due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "708 2026-02-05",
+        "trainNumber": "708",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "OSL",
+        "originDepartureTime": "2026-02-05T07:47:00Z",
+        "destinationArrivalTime": "2026-02-05T15:25:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:708-STV_63234-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:708_STV-OSL_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T09:51:09.016Z"
+  },
+  "AV26-0925": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "STV",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T09:53:20.964Z",
+    "untilDateTime": "2026-02-05T18:19:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Stavanger p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Stavanger due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "711 2026-02-05",
+        "trainNumber": "711",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "STV",
+        "originDepartureTime": "2026-02-05T10:25:00Z",
+        "destinationArrivalTime": "2026-02-05T18:19:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:711-LOD_64080-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:711_OSL-STV_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T09:53:20.964Z"
+  },
+  "AV26-0920": {
+    "originLocationId": "OSL",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T09:51:51.544Z",
+    "untilDateTime": "2026-02-05T21:29:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Oslo S og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Oslo S and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "717 2026-02-05",
+        "trainNumber": "717",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "OSL",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-05T16:25:00Z",
+        "destinationArrivalTime": "2026-02-05T21:29:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:717-LOD_63252-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:717_OSL-KRS_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T09:51:51.544Z"
+  },
+  "AV26-0927": {
+    "originLocationId": "STV",
+    "destinationLocationId": "KRS",
+    "productLineId": 50,
+    "fromDateTime": "2026-02-04T09:53:59.133Z",
+    "untilDateTime": "2026-02-05T21:37:00Z",
+    "isPlanned": false,
+    "hasReplacements": false,
+    "withDailyTimeSlot": false,
+    "messageSummary": {
+      "no": "Toget er innstilt mellom Stavanger og Kristiansand p\u00e5 grunn av problemer med toget. Vi kj\u00f8rer buss for tog.",
+      "en": "Train is cancelled between Stavanger and Kristiansand due to problems affecting the train. We are running rail replacement buses."
+    },
+    "affectedTrainServices": [
+      {
+        "serviceId": "720 2026-02-05",
+        "trainNumber": "720",
+        "operatingDate": "2026-02-05T00:00:00Z",
+        "productLineId": 50,
+        "origin": "STV",
+        "destination": "KRS",
+        "originDepartureTime": "2026-02-05T18:36:00Z",
+        "destinationArrivalTime": "2026-02-05T21:37:00Z",
+        "replacementsPresent": false,
+        "serviceJourneyId": "GOA:ServiceJourney:720-KVB_63254-R",
+        "datedServiceJourneyId": "GOA:DatedServiceJourney:720_STV-KRS_26-02-05"
+      }
+    ],
+    "isGanWebCritical": false,
+    "isGanWebNotCritical": false,
+    "isSiriSx": true,
+    "updatedTime": "2026-02-04T09:53:59.133Z"
+  }
+}
